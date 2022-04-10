@@ -27,6 +27,8 @@
   --clr-secondary: #cdc6be;
   --clr-text: #41311f;
   --clr-bg-light: #c8d3e9;
+  
+  color-scheme: light only;
 }
 
 *,
@@ -38,9 +40,11 @@
 }
 
 body {
+  background-image: linear-gradient(#ffffff, #ffffff); 
   background-color: white;
 }
 
 @media (prefers-color-scheme: dark) {
-
+  background-image: linear-gradient(#ffffff, #ffffff); 
+  background-color: white;
 }
