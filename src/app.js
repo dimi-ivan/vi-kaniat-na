@@ -4,7 +4,7 @@ import { viewInvitation } from './views/invitationView.js';
 
 const main = document.getElementById('main');
 
-page.base('/#svatba');
+page.base('/vi-kaniat-na/#svatba');
 page(decorateContext);
 page('/', createInvitation);
 page('/pokana/:id', viewInvitation);
