@@ -12,7 +12,7 @@ export const invitation = (prop) => html`
       <div class="invitation-content">
         <p>Някои казват: „Беше ви време.“,<br>Други пък: „ Имахте време.“</p>
         <p>
-          Всъщност има ли значение, щом взето е решение, че дошло е време Иван
+          Всъщност има ли значение, щом взето е решение,<br>че дошло е време Иван
           булка да вземе. Нежно Дими я нарича и силно я обича.
         </p>
         <p>И защото много се ОБИЧАТ, Те във вярност ще се ВРИЧАТ.</p>
@@ -20,7 +20,7 @@ export const invitation = (prop) => html`
           Скъпи ${prop}, Ние, Иван и
           Димитрина
           заедно с родителите ни, Ви каним да съучаствате в нашето сватбено
-          тържество. На 05 юни 2022г. гр. Пловдив
+          тържество.<br>На 05 юни 2022г. гр. Пловдив
         </p>
         <p>Без много да умуват Дмитрий и Ксения Ще кумуват.</p>
         <p>Ще очакваме вашите потвърждения до <strong>05.05.2022г</strong>.</p>
@@ -80,12 +80,12 @@ export const invitation = (prop) => html`
           <div class="church">
             <h4><a href="http://www.plovdivskamitropolia.bg/hramove/143-mitropolitski-hram-qsv-vlmch-marinaq-gr-plovdiv.html">Храм „Света Великомъченица Марина“</a></h4>
             <div>гр.Пловдив ул."др Георги Валкович" №7</div>
-            <div>☎ 032 623 276</div>
+            <div>032 623 276</div>
           </div>
           <div class="complex">
             <h4><a href="https://www.facebook.com/weddingsgarde/">Комплекс „Garden Weddings“</a></h4>
             <div>гр.Пловдив Индустриален Парк Марково</div>
-            <div>☎ 089 900 0210</div>
+            <div>089 900 0210</div>
           </div>
         </div>
       </div>
