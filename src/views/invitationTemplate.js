@@ -18,11 +18,11 @@ export const invitation = (prop) => html`
         <p>И защото много се ОБИЧАТ, Те във вярност ще се ВРИЧАТ.</p>
         <p>
           Скъпи ${prop}, Ние, Иван и
-          Димитрина
+          Димитрина,
           заедно с родителите ни, Ви каним да съучаствате в нашето сватбено
           тържество.<br>На 05 юни 2022г. гр. Пловдив
         </p>
-        <p>Без много да умуват Дмитрий и Ксения Ще кумуват.</p>
+        <p>Без много да умуват, Дмитрий и Ксения Ще кумуват.</p>
         <p>Ще очакваме вашите потвърждения до <strong>05.05.2022г</strong>.</p>
       </div>
     </section>
@@ -31,13 +31,13 @@ export const invitation = (prop) => html`
       <article>
         <img src="src/assets/images/church.png" alt="Венчавка" class="icon">
         <h3>16:00 часа</h3>
-        <p class="description">В нашия приказен ден първо пред Бог ще се вречем.</p>
+        <p class="description">В нашия приказен ден, първо пред Бог ще се вречем.</p>
         <p class="location">Храм „св. вмчца Марина“ гр. Пловдив</p>
       </article>
       <article>
         <img src="src/assets/images/rings.png" alt="Обет" class="icon">
         <h3>17:30 часа</h3>
-        <p class="description">Малко по-късно от любов обзети ще разменим сватбените си обети.</p>
+        <p class="description">Малко по-късно, от любов обзети, ще разменим сватбените си обети.</p>
         <p class="location">Комплекс „Garden Weddings“ Индустриален Парк Марково</p>
       </article>
       <article>
@@ -49,7 +49,7 @@ export const invitation = (prop) => html`
       <article>
         <img src="src/assets/images/dinner.png" alt="Вечеря" class="icon">
         <h3>19:00 часа</h3>
-        <p class="description">И както си му е реда да продължим с веселба.</p>
+        <p class="description">И както си му е реда, да продължим с веселба.</p>
         <p class="location">Комплекс „Garden Weddings“ Индустриален Парк Марково</p>
       </article>
       <div class="map-heading">
